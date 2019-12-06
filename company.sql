@@ -9,5 +9,6 @@ create table dept (
 );
 
 insert into dept values(001,기획부,홍길동);
-
+insert into dept values(002,총무수,이성경);
+insert into dept values(003,인사부,김형민);
 	
